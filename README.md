@@ -1,6 +1,6 @@
 # Predição de Emissões de CO₂ em Veículos
 
-![FIGURA](imagens/co2_emissions_project.png)
+![FIGURA](relatorios/imagens/co2_emissions_project.png)
 
 Este projeto utiliza uma base de dados pública disponibilizada pelo governo canadense contendo informações técnicas e de consumo de combustível de veículos leves comercializados no Canadá.
 
